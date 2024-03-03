@@ -19,4 +19,4 @@ Please note that the Jupyter notebook may not display the entire plots, maybe be
 
 Below is the forecast plot for Netflix subscribers for the next 5 days.
 
-![Forecasting plot of Netflix Subscribers](C:\Users\Fatine Boussattine\Downloads\Data ANALYSIS PRJ\TS Analysis\forecasting_plot)
+<img width="872" alt="forecasting_results" src="https://github.com/FatineDev/Netflix-Subscriptions-Forecasting-using-Python/assets/120562023/6fe6da53-7ce8-4306-9327-845d37b5ae27">
