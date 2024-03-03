@@ -14,3 +14,9 @@ The process to follow in a Time Series Project :
   7. **Train the model:** Fit the model to the data and tune parameters to improve accuracy.
   8. **Evaluate the model:** Use performance metrics to assess model accuracy.
   9. **Predict future values:** Use the trained model to make predictions about future time series values.
+
+Please note that the Jupyter notebook may not display the entire plots, maybe because they are generated using **the Plotly package** of Python. Therefore, I recommend running the notebook locally for a better visualization experience. 
+
+Below is the forecast plot for Netflix subscribers for the next 5 days.
+
+![Forecasting plot of Netflix Subscribers](C:\Users\Fatine Boussattine\Downloads\Data ANALYSIS PRJ\TS Analysis\forecasting_plot)
