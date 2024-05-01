@@ -20,3 +20,5 @@ Please note that the Jupyter notebook may not display the entire plots, maybe be
 Below is the forecast plot for Netflix subscribers for the next 5 days.
 
 <img width="872" alt="forecasting_results" src="https://github.com/FatineDev/Netflix-Subscriptions-Forecasting-using-Python/assets/120562023/6fe6da53-7ce8-4306-9327-845d37b5ae27">
+
+**UPDATE** I've added a new Jupyter file with updates (Netflix_TS_updated.ipynb). I noticed that the output images generated with the Plotly package weren't displayed at all (likely due to an issue with Github's Notebook renderer). To address this, I downloaded and displayed these images using the Pillow package and the display method, ensuring you can now see all the graphs clearly.
